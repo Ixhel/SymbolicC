@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SymbolicC++3", "SymbolicC++3.vcproj", "{D594CAA6-A650-4814-808D-8B23AE33AB10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Dynamic|Win32 = Dynamic|Win32
+		Release|Win32 = Release|Win32
+		Static|Win32 = Static|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D594CAA6-A650-4814-808D-8B23AE33AB10}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D594CAA6-A650-4814-808D-8B23AE33AB10}.Debug|Win32.Build.0 = Debug|Win32
+		{D594CAA6-A650-4814-808D-8B23AE33AB10}.Dynamic|Win32.ActiveCfg = Dynamic|Win32
+		{D594CAA6-A650-4814-808D-8B23AE33AB10}.Dynamic|Win32.Build.0 = Dynamic|Win32
+		{D594CAA6-A650-4814-808D-8B23AE33AB10}.Release|Win32.ActiveCfg = Release|Win32
+		{D594CAA6-A650-4814-808D-8B23AE33AB10}.Release|Win32.Build.0 = Release|Win32
+		{D594CAA6-A650-4814-808D-8B23AE33AB10}.Static|Win32.ActiveCfg = Static|Win32
+		{D594CAA6-A650-4814-808D-8B23AE33AB10}.Static|Win32.Build.0 = Static|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
